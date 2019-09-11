@@ -1,7 +1,7 @@
 # prediction_of_dissatisfied_bank_customers
 
 
-trata-se de um projeto da Formação Cientista de Dados da Data Science Academy.
+Trata-se de um projeto da Formação Cientista de Dados da Data Science Academy.
 
 # Definição do Problema de Negócio:
 
